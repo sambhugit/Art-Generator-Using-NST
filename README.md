@@ -1,2 +1,2 @@
 # Art-Generator-Using-NST
-Neural Art Generatop using Neural Style Transfer
+An art generator model using VGG19 . The model extracts style of art from one painting and merges it with a normal picture to generate a new painting.
