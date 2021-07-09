@@ -30,4 +30,10 @@ Clone this repo and then pip install requirements.txt file.
 ### 
 Then run Art_Generator.py to see generated images.
 ###
+Incase of any error, install scipy seperately using 
+```
+pip install scipy==1.1.0 
+```
+and then run Art_Generator.py
+###
 [1][https://arxiv.org/abs/1508.06576]
