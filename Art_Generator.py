@@ -90,7 +90,7 @@ def model_nn(sess, input_image, num_iterations = 30000):
         ### END CODE HERE ###
 
         # Print every 20 iteration.
-        if i%20 == 0:
+        if i%5000 == 0:
             Jt, Jc, Js1, Js2 = sess.run([J, J_content, J_style_1, J_style_2])
             print("Iteration " + str(i) + " :")
             print("total cost = " + str(Jt))
