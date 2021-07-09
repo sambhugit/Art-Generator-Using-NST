@@ -29,3 +29,5 @@ An art generator model using VGG19 . The model extracts style of art from both p
 Clone this repo and then pip install requirements.txt file.
 ### 
 Then run Art_Generator.py to see generated images.
+###
+[1][https://arxiv.org/abs/1508.06576]
