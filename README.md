@@ -23,6 +23,14 @@ In this project, I have taught a neural network to draw a painting in a white sc
   <img src="/Images/Style2.jpg" width="350" title="hover text">
 </p> 
 
+
+**( This is the painting that our model generated. )**
+
+<p align="left">
+  <img src="/Output/generated_image.jpg" width="350" title="hover text">
+</p> 
+
+
 ### 
 An art generator model using VGG19 . The model extracts style of art from both paintings and merges it with our white screen image to generate a new painting using Neural Style Transfer. Gradient Descent and Transfer Learning is used to reduce Cost Function and optimize generated image.
 ### 
